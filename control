@@ -1,0 +1,9 @@
+Package: com.tonykraft.nonewmark8
+Name: NoNewMark8 (iOS 8 - 11)
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Removes the blue dot next to an icon that was newly installed or recently updated.
+Maintainer: Tony Kraft <iostonykraft@gmail.com>
+Author: Tony Kraft <iostonykraft@gmail.com>
+Section: Tweaks
